@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.log
+logs/
+data/*.db
+data/*.sqlite
+data/runtime_state.json
+data/ops_state.json
+.DS_Store
